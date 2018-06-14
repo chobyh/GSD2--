@@ -1,0 +1,1540 @@
+﻿Log file open, 04/13/18 12:57:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: AnimalTower
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1459264198) SRandInit(1459264198).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185248
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.13-03.57.47:637][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.13-03.57.47:637][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.13-03.57.47:649][  0]LogInit: Computer: DESKTOP-GCDKNJF
+[2018.04.13-03.57.47:649][  0]LogInit: User: choby
+[2018.04.13-03.57.47:649][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.13-03.57.47:649][  0]LogInit: High frequency timer resolution =2.742185 MHz
+[2018.04.13-03.57.47:650][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.13-03.57.47:650][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.13-03.57.47:650][  0]LogMemory: Process Physical Memory: 275.86 MB used, 275.86 MB peak
+[2018.04.13-03.57.47:650][  0]LogMemory: Process Virtual Memory: 269.89 MB used, 269.89 MB peak
+[2018.04.13-03.57.47:650][  0]LogMemory: Physical Memory: 3728.27 MB used,  4381.43 MB free, 8109.70 MB total
+[2018.04.13-03.57.47:650][  0]LogMemory: Virtual Memory: 682.66 MB used,  4381.43 MB free, 134217728.00 MB total
+[2018.04.13-03.57.47:928][  0]LogInit: Overriding language with editor language configuration option (ko).
+[2018.04.13-03.57.47:928][  0]LogInit: Overriding locale with editor locale configuration option (ko).
+[2018.04.13-03.57.48:108][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.13-03.57.48:518][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.13-03.57.48:581][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.04.13-03.57.48:581][  0]LogD3D11RHI:       4021/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.13-03.57.48:588][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.04.13-03.57.48:588][  0]LogD3D11RHI:       128/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.13-03.57.48:591][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.13-03.57.48:591][  0]LogD3D11RHI:       0/0/4054 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.13-03.57.48:591][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.13-03.57.48:597][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.13-03.57.48:597][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.04.13-03.57.48:597][  0]LogWindows: EnumDisplayDevices:
+[2018.04.13-03.57.48:597][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.04.13-03.57.48:598][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.13-03.57.48:598][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.13-03.57.48:598][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.13-03.57.48:598][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.04.13-03.57.48:598][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.13-03.57.48:598][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.13-03.57.48:598][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.04.13-03.57.48:637][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.13-03.57.48:655][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.13-03.57.48:656][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (D:/다운로드/AnimalTower/Intermediate/Shaders/WorkingDirectory/784/).
+[2018.04.13-03.57.48:656][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/choby/AppData/Local/Temp/UnrealShaderWorkingDir/9A0B55DD49681FE799C0B5A616E3DEA0/'.
+[2018.04.13-03.57.48:656][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.13-03.57.49:772][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.13-03.57.49:860][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.13-03.57.49:950][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.13-03.57.50:040][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.13-03.57.50:126][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.13-03.57.50:215][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.13-03.57.50:303][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.13-03.57.50:387][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.13-03.57.50:465][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.13-03.57.50:549][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.13-03.57.50:635][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.13-03.57.50:726][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.13-03.57.50:825][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.13-03.57.50:920][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.13-03.57.51:109][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.13-03.57.51:109][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.13-03.57.51:194][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.13-03.57.51:266][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.13-03.57.51:403][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.13-03.57.51:446][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.13-03.57.51:528][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.13-03.57.51:610][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.13-03.57.51:697][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.13-03.57.51:781][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.13-03.57.51:781][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.13-03.57.52:796][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.13-03.57.52:901][  0]LogDerivedDataCache: Loaded boot cache 0.10s 90MB C:/Users/choby/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.13-03.57.52:901][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/choby/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.13-03.57.52:901][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/다운로드/AnimalTower/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.13-03.57.52:901][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.13-03.57.52:901][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/다운로드/AnimalTower/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.13-03.57.52:901][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.13-03.57.52:917][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.13-03.57.52:929][  0]LogDerivedDataCache: Using Local data cache path C:/Users/choby/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.13-03.57.52:939][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.13-03.57.52:940][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.13-03.57.52:940][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.13-03.57.52:940][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.13-03.57.53:363][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.13-03.57.53:906][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.13-03.57.53:983][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.13-03.57.53:983][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.13-03.57.53:983][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.13-03.57.53:983][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.13-03.57.53:983][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.13-03.57.54:022][  0]LogNetVersion: AnimalTower , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3956834496)
+[2018.04.13-03.57.54:246][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.04.13-03.57.54:884][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.032810 seconds
+[2018.04.13-03.57.54:891][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.13-03.57.54:891][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.13-03.57.54:891][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.13-03.57.55:000][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.13-03.57.59:319][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.13-03.57.59:387][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.13-03.58.00:617][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.13-03.58.01:321][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.04.13-03.58.01:321][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.04.13-03.58.01:418][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.04.13-03.58.01:513][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.04.13-03.58.03:016][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.13-03.58.03:498][  0]LogOcInput: OculusInput pre-init called
+[2018.04.13-03.58.03:984][  0]LogEngine: Initializing Engine...
+[2018.04.13-03.58.03:987][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.13-03.58.04:243][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.13-03.58.04:243][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.13-03.58.04:481][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.13-03.58.04:494][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-03.58.04:842][  0]LogInit: FAudioDevice initialized.
+[2018.04.13-03.58.04:942][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/choby/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.13-03.58.04:963][  0]LogInit: Texture streaming: Enabled
+[2018.04.13-03.58.05:151][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.13-03.58.05:385][  0]LogInit: Transaction tracking system initialized
+[2018.04.13-03.58.05:996][  0]BlueprintLog: New page: 에디터 로드
+[2018.04.13-03.58.07:685][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.04.13-03.58.09:017][  0]LogConsoleResponse: Display: 
+[2018.04.13-03.58.09:253][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.13-03.58.09:253][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.13-03.58.09:253][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.13-03.58.09:758][  0]LogFileCache: Scanning file cache for directory 'D:/다운로드/AnimalTower/Content/' took 0.01s
+[2018.04.13-03.58.11:442][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.04.13-03.58.11:442][  0]Cmd: MAP LOAD FILE="D:/다운로드/AnimalTower/Content/RTSCam/Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.13-03.58.11:443][  0]LightingResults: New page: 라이팅 빌드
+[2018.04.13-03.58.11:519][  0]MapCheck: New page: 맵 체크
+[2018.04.13-03.58.11:519][  0]LightingResults: New page: 라이팅 빌드
+[2018.04.13-03.58.11:915][  0]LogAIModule: Creating AISystem for world Default
+[2018.04.13-03.58.11:924][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.13-03.58.11:936][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.13-03.58.12:024][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 87.114ms.
+[2018.04.13-03.58.12:024][  0]LogFileHelpers: Loading map 'Default' took 0.582
+[2018.04.13-03.58.12:092][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.04.13-03.58.12:205][  0]LogCollectionManager: Loaded 0 collections in 0.002317 seconds
+[2018.04.13-03.58.12:333][  0]LogFileCache: Scanning file cache for directory 'D:/다운로드/AnimalTower/Saved/Collections/' took 0.01s
+[2018.04.13-03.58.12:333][  0]LogFileCache: Scanning file cache for directory 'D:/다운로드/AnimalTower/Content/Developers/choby/Collections/' took 0.01s
+[2018.04.13-03.58.12:333][  0]LogFileCache: Scanning file cache for directory 'D:/다운로드/AnimalTower/Content/Collections/' took 0.01s
+[2018.04.13-03.58.12:333][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.13-03.58.12:342][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2363 classes and 519 folders.
+[2018.04.13-03.58.12:484][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.13-03.58.12:553][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.13-03.58.12:643][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.13-03.58.12:709][  0]LogSlate: Took 0.000480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.13-03.58.12:714][  0]LogSlate: Took 0.003619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.04.13-03.58.12:715][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.13-03.58.12:720][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.13-03.58.12:830][  0]LogRenderer: Reallocating scene render targets to support 892x436 Format 10 NumSamples 1 (Frame:1).
+[2018.04.13-03.58.13:088][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.13-03.58.13:088][  0]LogLoad: (Engine Initialization) Total time: 28.81 seconds
+[2018.04.13-03.58.13:088][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.13-03.58.13:088][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.13-03.58.13:088][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.13-03.58.13:128][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.13-03.58.13:174][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.13-03.58.13:214][  1]LogAssetRegistry: Asset discovery search completed in 18.9910 seconds
+[2018.04.13-03.58.13:217][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.13-03.58.13:217][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
+[2018.04.13-03.59.13:156][564]LogHttp: Warning: 0000028989BFF400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-03.59.13:157][564]LogHttp: Warning: 0000028989BFF400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-03.59.13:157][564]LogHttp: Warning: 0000028989BFF400: libcurl info message cache 1 (Closing connection 0)
+[2018.04.13-03.59.21:384][ 53]LogSlate: Took 0.002164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.13-03.59.21:791][ 53]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.04.13-03.59.22:507][ 53]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.13-03.59.22:642][ 53]LogSlate: Took 0.006394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.13-03.59.27:412][303]LogSlate: Took 0.006580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.13-03.59.28:305][349]LogRenderer: Reallocating scene render targets to support 892x524 Format 10 NumSamples 1 (Frame:1).
+[2018.04.13-04.00.42:004][203]BlueprintLog: New page: RTSCam 컴파일
+[2018.04.13-04.00.44:154][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/BP/RTSCam" FILE="D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset" SILENT=true
+[2018.04.13-04.00.44:796][281]LogSavePackage: Save=358.45ms
+[2018.04.13-04.00.44:796][281]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/RTSCamAC8830634D1E512A141FF5894F2647C1.tmp' to 'D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset'
+[2018.04.13-04.00.44:800][281]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset
+[2018.04.13-04.01.13:203][866]LogHttp: Warning: 0000028A1C4E3880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-04.01.13:203][866]LogHttp: Warning: 0000028A1C4E3880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-04.01.13:203][866]LogHttp: Warning: 0000028A1C4E3880: libcurl info message cache 1 (Closing connection 1)
+[2018.04.13-04.01.45:153][713]LogEditorTransaction: Undo 노드 추가
+[2018.04.13-04.01.45:220][713]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.13-04.01.49:366][947]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_GetActorLocation' [요소가 없습니다.]
+[2018.04.13-04.02.01:568][675]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.02.01:622][675]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.02.01:677][675]LogPlayLevel: [PlayLevel] Compiling RTSCam before play...
+[2018.04.13-04.02.02:110][675]LogPlayLevel: PlayLevel: Blueprint regeneration took 487 ms (1 blueprints)
+[2018.04.13-04.02.02:110][675]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:02:02)
+[2018.04.13-04.02.02:110][675]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.02.02:115][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004208s)
+[2018.04.13-04.02.02:116][675]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.02.02:116][675]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2018.04.13-04.02.02:116][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.006057s)
+[2018.04.13-04.02.02:167][675]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.02.02:298][675]LogInit: FAudioDevice initialized.
+[2018.04.13-04.02.02:425][675]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.02.02:430][675]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.02.02
+[2018.04.13-04.02.02:430][675]LogWorld: Bringing up level for play took: 0.001174
+[2018.04.13-04.02.02:431][675]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.02.02:516][675]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.13-04.02.02:516][675]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.02.02:516][675]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.02.02:516][675]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.02.02:518][675]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.02.02:535][675]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.882
+[2018.04.13-04.02.02:586][675]LogRenderer: Reallocating scene render targets to support 1024x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.13-04.02.03:291][714]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.03:291][714]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.03:291][714]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.03:291][714]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.04:235][770]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.04:235][770]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.04:235][770]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.04:235][770]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.04:969][814]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.04:969][814]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.04:969][814]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.04:969][814]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.06:226][889]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.06:227][889]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.06:227][889]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.06:227][889]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.07:027][937]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.07:027][937]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.07:027][937]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.07:027][937]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.07:699][977]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.07:699][977]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.07:700][977]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.07:700][977]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.08:853][ 46]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.08:853][ 46]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.08:853][ 46]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.08:853][ 46]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.09:554][ 88]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.09:554][ 88]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.09:554][ 88]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.09:554][ 88]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.10:020][116]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.10:021][116]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.10:021][116]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.10:021][116]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.10:536][147]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.10:536][147]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.10:536][147]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.10:536][147]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.11:156][184]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.11:157][184]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.11:157][184]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.11:157][184]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.19:203][659]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.02.19:272][659]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.02.19:326][659]LogPlayLevel: [PlayLevel] Compiling RTSCam before play...
+[2018.04.13-04.02.19:689][659]LogPlayLevel: PlayLevel: Blueprint regeneration took 417 ms (1 blueprints)
+[2018.04.13-04.02.19:690][659]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:02:19)
+[2018.04.13-04.02.19:690][659]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.02.19:691][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001722s)
+[2018.04.13-04.02.19:692][659]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.02.19:693][659]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2018.04.13-04.02.19:693][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003290s)
+[2018.04.13-04.02.19:715][659]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.02.19:817][659]LogInit: FAudioDevice initialized.
+[2018.04.13-04.02.19:893][659]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.02.19:895][659]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.02.19
+[2018.04.13-04.02.19:895][659]LogWorld: Bringing up level for play took: 0.001132
+[2018.04.13-04.02.19:895][659]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.02.19:896][659]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.02.19:896][659]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.02.19:896][659]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.02.19:896][659]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.02.19:898][659]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.244
+[2018.04.13-04.02.20:535][679]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.20:535][679]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.20:535][679]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.20:535][679]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.21:439][733]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.21:439][733]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.21:439][733]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.21:439][733]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.22:160][775]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.22:160][775]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.22:160][775]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.22:160][775]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.22:899][819]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.22:899][819]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.22:899][819]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.22:899][819]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.23:589][860]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.23:589][860]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.23:589][860]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.23:589][860]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.24:277][900]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.24:277][900]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.24:277][900]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.24:277][900]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.24:996][943]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.24:996][943]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.24:996][943]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.24:996][943]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.25:770][989]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.25:770][989]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.25:770][989]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.25:770][989]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.26:422][ 28]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.26:422][ 28]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.26:422][ 28]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.26:422][ 28]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.27:145][ 71]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.27:145][ 71]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.27:145][ 71]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.27:145][ 71]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.28:033][123]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.28:034][123]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.28:034][123]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.28:034][123]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.28:743][165]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.28:744][165]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.28:744][165]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.28:744][165]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.29:273][196]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.29:273][196]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.29:273][196]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.29:273][196]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.29:925][234]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.29:925][234]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.29:925][234]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.29:925][234]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.30:546][271]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.30:546][271]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.30:546][271]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.30:546][271]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.33:604][447]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.02.33:668][447]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.02.33:724][447]LogPlayLevel: [PlayLevel] Compiling RTSCam before play...
+[2018.04.13-04.02.34:092][447]LogPlayLevel: PlayLevel: Blueprint regeneration took 424 ms (1 blueprints)
+[2018.04.13-04.02.34:092][447]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:02:34)
+[2018.04.13-04.02.34:092][447]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.02.34:094][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001685s)
+[2018.04.13-04.02.34:095][447]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.02.34:095][447]LogPlayLevel: PIE: World Init took: (0.001520s)
+[2018.04.13-04.02.34:096][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003520s)
+[2018.04.13-04.02.34:117][447]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.02.34:219][447]LogInit: FAudioDevice initialized.
+[2018.04.13-04.02.34:299][447]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.02.34:303][447]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.02.34
+[2018.04.13-04.02.34:304][447]LogWorld: Bringing up level for play took: 0.001366
+[2018.04.13-04.02.34:304][447]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.02.34:304][447]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.02.34:304][447]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.02.34:304][447]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.02.34:305][447]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.02.34:306][447]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.653
+[2018.04.13-04.02.34:892][463]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.34:892][463]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.34:892][463]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.34:892][463]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.35:576][504]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.35:576][504]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.35:577][504]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.35:577][504]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.36:131][537]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.36:132][537]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.36:132][537]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.36:132][537]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.36:691][570]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.36:691][570]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.36:691][570]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.36:691][570]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.44:258][ 17]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.02.44:321][ 17]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.02.44:375][ 17]LogPlayLevel: [PlayLevel] Compiling RTSCam before play...
+[2018.04.13-04.02.44:744][ 17]LogPlayLevel: PlayLevel: Blueprint regeneration took 422 ms (1 blueprints)
+[2018.04.13-04.02.44:744][ 17]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:02:44)
+[2018.04.13-04.02.44:744][ 17]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.02.44:745][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001554s)
+[2018.04.13-04.02.44:746][ 17]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.02.44:747][ 17]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2018.04.13-04.02.44:747][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003065s)
+[2018.04.13-04.02.44:769][ 17]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.02.44:870][ 17]LogInit: FAudioDevice initialized.
+[2018.04.13-04.02.44:949][ 17]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.02.44:951][ 17]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.02.44
+[2018.04.13-04.02.44:951][ 17]LogWorld: Bringing up level for play took: 0.001023
+[2018.04.13-04.02.44:951][ 17]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.02.44:952][ 17]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.02.44:952][ 17]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.02.44:952][ 17]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.02.44:953][ 17]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.02.44:954][ 17]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 1.301
+[2018.04.13-04.02.45:619][ 39]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.45:619][ 39]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.45:619][ 39]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.45:619][ 39]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.46:582][ 95]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.46:582][ 95]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.46:582][ 95]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.46:582][ 95]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.47:486][149]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.47:486][149]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.47:486][149]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.47:486][149]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.48:211][192]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.48:211][192]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.48:211][192]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.48:211][192]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.48:784][226]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.48:784][226]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.48:784][226]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.48:784][226]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.49:374][260]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.49:374][260]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.49:374][260]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.49:374][260]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.49:981][296]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.49:981][296]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.49:981][296]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.49:981][296]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.50:618][334]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.50:618][334]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.50:618][334]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.50:618][334]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.51:251][370]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.51:251][370]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.51:251][370]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.51:251][370]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.54:288][551]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.54:288][551]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.54:288][551]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.54:288][551]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.56:717][694]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.56:717][694]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.56:717][694]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.56:717][694]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.57:198][722]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.57:198][722]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.57:198][722]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.57:198][722]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.57:635][748]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.57:635][748]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.57:635][748]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.57:635][748]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.58:845][820]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.58:846][820]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.58:846][820]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.58:846][820]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.59:501][858]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.59:501][858]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.59:501][858]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.02.59:501][858]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.03.04:982][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/BP/RTSCam" FILE="D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset" SILENT=true
+[2018.04.13-04.03.05:409][175]LogSavePackage: Save=413.68ms
+[2018.04.13-04.03.05:409][175]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/RTSCam5DD3134F4BCC810A7FF60B92CB3F90F8.tmp' to 'D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset'
+[2018.04.13-04.03.05:413][175]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset
+[2018.04.13-04.03.05:835][200]BlueprintLog: New page: RTSCam 컴파일
+[2018.04.13-04.03.06:634][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/BP/RTSCam" FILE="D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset" SILENT=true
+[2018.04.13-04.03.07:002][221]LogSavePackage: Save=357.44ms
+[2018.04.13-04.03.07:002][221]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/RTSCamF1A3974B4749104B4EF65B9C8345EC3C.tmp' to 'D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset'
+[2018.04.13-04.03.07:003][221]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset
+[2018.04.13-04.03.13:228][590]LogHttp: Warning: 0000028A208BF400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-04.03.13:229][590]LogHttp: Warning: 0000028A208BF400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-04.03.13:229][590]LogHttp: Warning: 0000028A208BF400: libcurl info message cache 1 (Closing connection 2)
+[2018.04.13-04.04.17:472][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/BP/RTSCam" FILE="D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset" SILENT=true
+[2018.04.13-04.04.17:856][363]LogSavePackage: Save=370.77ms
+[2018.04.13-04.04.17:856][363]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/RTSCam09BC8FB54636D355F74DCCAA1E6E7E68.tmp' to 'D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset'
+[2018.04.13-04.04.17:858][363]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset
+[2018.04.13-04.04.18:257][387]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.04.18:415][387]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.04.18:475][387]LogPlayLevel: [PlayLevel] Compiling RTSCam before play...
+[2018.04.13-04.04.18:865][387]LogPlayLevel: PlayLevel: Blueprint regeneration took 449 ms (1 blueprints)
+[2018.04.13-04.04.18:865][387]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:04:18)
+[2018.04.13-04.04.18:865][387]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.04.18:867][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001922s)
+[2018.04.13-04.04.18:868][387]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.04.18:869][387]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2018.04.13-04.04.18:869][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003608s)
+[2018.04.13-04.04.18:890][387]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.04.18:994][387]LogInit: FAudioDevice initialized.
+[2018.04.13-04.04.19:108][387]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.04.19:110][387]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.04.19
+[2018.04.13-04.04.19:110][387]LogWorld: Bringing up level for play took: 0.001480
+[2018.04.13-04.04.19:111][387]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.04.19:111][387]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.04.19:111][387]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.04.19:111][387]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.04.19:112][387]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.04.19:126][387]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 1.473
+[2018.04.13-04.04.20:194][445]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.20:194][445]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.20:194][445]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.20:194][445]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.21:322][512]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.21:322][512]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.21:322][512]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.21:322][512]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.22:426][576]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.22:426][576]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.22:426][576]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.22:426][576]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.23:104][616]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.23:104][616]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.23:104][616]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.23:104][616]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.23:659][649]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.23:659][649]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.23:659][649]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.23:659][649]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.24:367][689]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.24:367][689]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.24:367][689]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.24:367][689]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.24:685][708]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.24:685][708]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.24:685][708]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.24:685][708]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.25:156][736]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.25:156][736]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.25:156][736]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.25:156][736]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.25:876][779]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.25:876][779]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.25:876][779]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.25:876][779]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.26:167][796]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.26:167][796]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.26:167][796]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.26:167][796]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.27:630][876]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.04.27:694][876]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.13-04.04.27:694][876]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:04:27)
+[2018.04.13-04.04.27:694][876]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.04.27:696][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002001s)
+[2018.04.13-04.04.27:697][876]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.04.27:697][876]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.04.13-04.04.27:697][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003253s)
+[2018.04.13-04.04.27:720][876]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.04.27:825][876]LogInit: FAudioDevice initialized.
+[2018.04.13-04.04.27:896][876]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.04.27:898][876]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.04.27
+[2018.04.13-04.04.27:899][876]LogWorld: Bringing up level for play took: 0.001151
+[2018.04.13-04.04.27:899][876]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.04.27:899][876]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.04.27:899][876]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.04.27:899][876]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.04.27:900][876]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.04.27:901][876]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.248
+[2018.04.13-04.04.30:944][ 39]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.30:945][ 39]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.30:945][ 39]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.30:945][ 39]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.04.35:346][280]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.04.35:378][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.13-04.04.35:378][280]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:04:35)
+[2018.04.13-04.04.35:378][280]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.04.35:380][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002377s)
+[2018.04.13-04.04.35:381][280]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.04.35:382][280]LogPlayLevel: PIE: World Init took: (0.001121s)
+[2018.04.13-04.04.35:382][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003852s)
+[2018.04.13-04.04.35:404][280]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.04.35:509][280]LogInit: FAudioDevice initialized.
+[2018.04.13-04.04.35:631][280]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.04.35:633][280]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.04.35
+[2018.04.13-04.04.35:634][280]LogWorld: Bringing up level for play took: 0.001558
+[2018.04.13-04.04.35:634][280]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.04.35:634][280]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.04.35:634][280]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.04.35:634][280]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.04.35:635][280]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.04.35:649][280]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: -0.004
+[2018.04.13-04.05.13:281][475]LogHttp: Warning: 0000028A033F1780: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-04.05.13:281][475]LogHttp: Warning: 0000028A033F1780: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-04.05.13:281][475]LogHttp: Warning: 0000028A033F1780: libcurl info message cache 1 (Closing connection 3)
+[2018.04.13-04.07.13:897][126]LogHttp: Warning: 00000289C8689180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-04.07.13:897][126]LogHttp: Warning: 00000289C8689180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-04.07.13:897][126]LogHttp: Warning: 00000289C8689180: libcurl info message cache 1 (Closing connection 4)
+[2018.04.13-04.08.38:860][ 25]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.08.38:889][ 25]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.08.38:944][ 25]LogPlayLevel: [PlayLevel] Compiling RTSCam before play...
+[2018.04.13-04.08.39:316][ 25]LogPlayLevel: PlayLevel: Blueprint regeneration took 427 ms (1 blueprints)
+[2018.04.13-04.08.39:316][ 25]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:08:39)
+[2018.04.13-04.08.39:317][ 25]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.08.39:318][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001797s)
+[2018.04.13-04.08.39:320][ 25]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.08.39:321][ 25]LogPlayLevel: PIE: World Init took: (0.001997s)
+[2018.04.13-04.08.39:321][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.004619s)
+[2018.04.13-04.08.39:344][ 25]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.08.39:449][ 25]LogInit: FAudioDevice initialized.
+[2018.04.13-04.08.39:563][ 25]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.08.39:565][ 25]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.08.39
+[2018.04.13-04.08.39:565][ 25]LogWorld: Bringing up level for play took: 0.001266
+[2018.04.13-04.08.39:565][ 25]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.08.39:565][ 25]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.08.39:566][ 25]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.08.39:566][ 25]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.08.39:567][ 25]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.08.39:581][ 25]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: -0.073
+[2018.04.13-04.08.40:315][ 63]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.40:315][ 63]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.40:315][ 63]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.40:315][ 63]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.47:187][470]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2018.04.13-04.08.47:638][481]LogEditorTransaction: Undo 노드 이동
+[2018.04.13-04.08.51:109][673]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.08.51:172][673]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.08.51:227][673]LogPlayLevel: [PlayLevel] Compiling RTSCam before play...
+[2018.04.13-04.08.51:620][673]LogPlayLevel: PlayLevel: Blueprint regeneration took 447 ms (1 blueprints)
+[2018.04.13-04.08.51:620][673]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:08:51)
+[2018.04.13-04.08.51:620][673]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.08.51:622][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001733s)
+[2018.04.13-04.08.51:622][673]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.08.51:623][673]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2018.04.13-04.08.51:623][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003129s)
+[2018.04.13-04.08.51:647][673]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.08.51:749][673]LogInit: FAudioDevice initialized.
+[2018.04.13-04.08.51:826][673]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.08.51:828][673]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.08.51
+[2018.04.13-04.08.51:828][673]LogWorld: Bringing up level for play took: 0.001152
+[2018.04.13-04.08.51:828][673]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.08.51:828][673]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.08.51:828][673]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.08.51:829][673]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.08.51:830][673]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.08.51:831][673]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.178
+[2018.04.13-04.08.52:328][685]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.52:328][685]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.52:328][685]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.52:328][685]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.52:965][723]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.52:965][723]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.52:965][723]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.52:965][723]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.53:726][768]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.53:726][768]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.53:726][768]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.53:726][768]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.54:676][825]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.54:676][825]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.54:676][825]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.08.54:676][825]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.09.00:980][197]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.09.01:047][197]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.09.01:101][197]LogPlayLevel: [PlayLevel] Compiling RTSCam before play...
+[2018.04.13-04.09.01:468][197]LogPlayLevel: PlayLevel: Blueprint regeneration took 421 ms (1 blueprints)
+[2018.04.13-04.09.01:468][197]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:09:01)
+[2018.04.13-04.09.01:468][197]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.09.01:470][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001760s)
+[2018.04.13-04.09.01:471][197]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.09.01:471][197]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2018.04.13-04.09.01:472][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003454s)
+[2018.04.13-04.09.01:493][197]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.09.01:611][197]LogInit: FAudioDevice initialized.
+[2018.04.13-04.09.01:688][197]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.09.01:690][197]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.09.01
+[2018.04.13-04.09.01:690][197]LogWorld: Bringing up level for play took: 0.001098
+[2018.04.13-04.09.01:691][197]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.09.01:691][197]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.09.01:691][197]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.09.01:691][197]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.09.01:692][197]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.09.01:693][197]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.04
+[2018.04.13-04.09.02:534][229]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.09.02:534][229]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.09.02:534][229]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.09.02:534][229]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.09.03:037][259]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.09.03:037][259]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.09.03:037][259]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.09.03:037][259]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.09.13:934][907]LogHttp: Warning: 00000289CC51AF80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-04.09.13:934][907]LogHttp: Warning: 00000289CC51AF80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-04.09.13:934][907]LogHttp: Warning: 00000289CC51AF80: libcurl info message cache 1 (Closing connection 5)
+[2018.04.13-04.10.06:918][ 61]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.10.06:947][ 61]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.10.06:958][ 61]LogPlayLevel: [PlayLevel] Compiling MagicRange before play...
+[2018.04.13-04.10.07:326][ 61]LogPlayLevel: [PlayLevel] Compiling RTSCam before play...
+[2018.04.13-04.10.07:696][ 61]LogPlayLevel: PlayLevel: Blueprint regeneration took 749 ms (2 blueprints)
+[2018.04.13-04.10.07:697][ 61]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:10:07)
+[2018.04.13-04.10.07:697][ 61]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.10.07:698][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001574s)
+[2018.04.13-04.10.07:699][ 61]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.10.07:700][ 61]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2018.04.13-04.10.07:700][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003449s)
+[2018.04.13-04.10.07:723][ 61]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.10.07:826][ 61]LogInit: FAudioDevice initialized.
+[2018.04.13-04.10.07:901][ 61]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.10.07:903][ 61]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.10.07
+[2018.04.13-04.10.07:903][ 61]LogWorld: Bringing up level for play took: 0.001120
+[2018.04.13-04.10.07:903][ 61]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.10.07:903][ 61]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.10.07:903][ 61]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.10.07:903][ 61]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.10.07:904][ 61]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.10.07:907][ 61]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.254
+[2018.04.13-04.10.08:364][ 84]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.08:364][ 84]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.08:364][ 84]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.08:364][ 84]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.08:947][119]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.08:947][119]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.08:947][119]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.08:947][119]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.11:403][262]LogEditorTransaction: Undo 핀 링크 끊기
+[2018.04.13-04.10.11:662][275]LogEditorTransaction: Undo 노드 이동
+[2018.04.13-04.10.18:765][699]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.10.18:796][699]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.10.18:804][699]LogPlayLevel: [PlayLevel] Compiling MagicRange before play...
+[2018.04.13-04.10.19:183][699]LogPlayLevel: PlayLevel: Blueprint regeneration took 387 ms (1 blueprints)
+[2018.04.13-04.10.19:183][699]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:10:19)
+[2018.04.13-04.10.19:183][699]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.10.19:185][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001574s)
+[2018.04.13-04.10.19:186][699]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.10.19:186][699]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2018.04.13-04.10.19:186][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003171s)
+[2018.04.13-04.10.19:208][699]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.10.19:311][699]LogInit: FAudioDevice initialized.
+[2018.04.13-04.10.19:397][699]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.10.19:399][699]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.10.19
+[2018.04.13-04.10.19:399][699]LogWorld: Bringing up level for play took: 0.001014
+[2018.04.13-04.10.19:399][699]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.10.19:399][699]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.10.19:399][699]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.10.19:399][699]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.10.19:400][699]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.10.19:403][699]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: -0.251
+[2018.04.13-04.10.19:702][714]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.19:702][714]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.19:702][714]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.19:702][714]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.20:119][739]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.20:119][739]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.20:119][739]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.10.20:119][739]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.11.02:517][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/Default" FILE="D:/다운로드/AnimalTower/Saved/Autosaves/Game/RTSCam/Default_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.04.13-04.11.02:689][822]LogSavePackage: Save=41.98ms
+[2018.04.13-04.11.02:689][822]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/Default_Auto1A3E8CCBB43632C8C2F225BA7E7B75A6F.tmp' to 'D:/다운로드/AnimalTower/Saved/Autosaves/Game/RTSCam/Default_Auto1.umap'
+[2018.04.13-04.11.02:727][822]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Saved/Autosaves/Game/RTSCam/Default_Auto1.umap
+[2018.04.13-04.11.02:730][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RTSCam/Default' took 0.381
+[2018.04.13-04.11.02:730][822]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.381
+[2018.04.13-04.11.02:748][822]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RTSCam/BP/RTSCam] ([1] browsable assets)...
+[2018.04.13-04.11.02:748][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTSCam/BP/RTSCam]
+[2018.04.13-04.11.02:748][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/BP/RTSCam" FILE="D:/다운로드/AnimalTower/Saved/Autosaves/Game/RTSCam/BP/RTSCam_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.13-04.11.03:166][822]LogSavePackage: Save=403.52ms
+[2018.04.13-04.11.03:166][822]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/RTSCam_Auto1E15DA38241C8A351B34C80B7BE0E2946.tmp' to 'D:/다운로드/AnimalTower/Saved/Autosaves/Game/RTSCam/BP/RTSCam_Auto1.uasset'
+[2018.04.13-04.11.03:177][822]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Saved/Autosaves/Game/RTSCam/BP/RTSCam_Auto1.uasset
+[2018.04.13-04.11.03:178][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RTSCam/BP/MagicRange] ([1] browsable assets)...
+[2018.04.13-04.11.03:206][822]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RTSCam/BP/MagicRange.MagicRange]
+[2018.04.13-04.11.03:206][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/RTSCam/BP/MagicRange]
+[2018.04.13-04.11.03:207][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/BP/MagicRange" FILE="D:/다운로드/AnimalTower/Saved/Autosaves/Game/RTSCam/BP/MagicRange_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.04.13-04.11.03:293][822]LogSavePackage: Save=70.36ms
+[2018.04.13-04.11.03:294][822]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/MagicRange_Auto17B594C394D70CC22C87D5996C778BB10.tmp' to 'D:/다운로드/AnimalTower/Saved/Autosaves/Game/RTSCam/BP/MagicRange_Auto1.uasset'
+[2018.04.13-04.11.03:294][822]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Saved/Autosaves/Game/RTSCam/BP/MagicRange_Auto1.uasset
+[2018.04.13-04.11.03:294][822]LogFileHelpers: Auto-saving content packages took 0.563
+[2018.04.13-04.11.13:966][950]LogHttp: Warning: 00000289B9BFEF80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-04.11.13:966][950]LogHttp: Warning: 00000289B9BFEF80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-04.11.13:966][950]LogHttp: Warning: 00000289B9BFEF80: libcurl info message cache 1 (Closing connection 6)
+[2018.04.13-04.12.04:358][969]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.12.04:382][969]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.12.04:391][969]LogPlayLevel: [PlayLevel] Compiling MagicRange before play...
+[2018.04.13-04.12.04:832][969]LogPlayLevel: PlayLevel: Blueprint regeneration took 450 ms (1 blueprints)
+[2018.04.13-04.12.04:832][969]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:12:04)
+[2018.04.13-04.12.04:832][969]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.12.04:834][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001665s)
+[2018.04.13-04.12.04:835][969]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.12.04:836][969]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2018.04.13-04.12.04:836][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003371s)
+[2018.04.13-04.12.04:858][969]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.12.04:960][969]LogInit: FAudioDevice initialized.
+[2018.04.13-04.12.05:044][969]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.12.05:046][969]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.12.05
+[2018.04.13-04.12.05:046][969]LogWorld: Bringing up level for play took: 0.001063
+[2018.04.13-04.12.05:046][969]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.12.05:046][969]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.12.05:046][969]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.12.05:046][969]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.12.05:047][969]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.12.05:050][969]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 1.396
+[2018.04.13-04.12.05:867][ 13]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.05:867][ 13]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.05:867][ 13]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.05:867][ 13]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.06:767][ 67]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.06:767][ 67]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.06:767][ 67]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.06:767][ 67]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.25:030][152]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.12.25:056][152]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.12.25:065][152]LogPlayLevel: [PlayLevel] Compiling MagicRange before play...
+[2018.04.13-04.12.25:601][152]LogPlayLevel: PlayLevel: Blueprint regeneration took 545 ms (1 blueprints)
+[2018.04.13-04.12.25:601][152]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:12:25)
+[2018.04.13-04.12.25:601][152]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.12.25:603][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002210s)
+[2018.04.13-04.12.25:604][152]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.12.25:605][152]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2018.04.13-04.12.25:605][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003995s)
+[2018.04.13-04.12.25:628][152]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.12.25:730][152]LogInit: FAudioDevice initialized.
+[2018.04.13-04.12.25:813][152]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.12.25:816][152]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.12.25
+[2018.04.13-04.12.25:817][152]LogWorld: Bringing up level for play took: 0.003018
+[2018.04.13-04.12.25:818][152]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.12.25:819][152]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.12.25:819][152]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.12.25:819][152]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.12.25:820][152]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.12.25:822][152]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.169
+[2018.04.13-04.12.26:349][178]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.26:349][178]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.26:349][178]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.26:349][178]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.26:816][206]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.26:816][206]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.26:816][206]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.26:817][206]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.28:185][288]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.28:185][288]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.28:185][288]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.28:185][288]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.31:053][460]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.31:053][460]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.31:053][460]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.31:053][460]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.32:739][561]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.32:739][561]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.32:739][561]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.32:739][561]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.51:936][706]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.12.51:960][706]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.12.51:969][706]LogPlayLevel: [PlayLevel] Compiling MagicRange before play...
+[2018.04.13-04.12.52:583][706]LogPlayLevel: PlayLevel: Blueprint regeneration took 622 ms (1 blueprints)
+[2018.04.13-04.12.52:583][706]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:12:52)
+[2018.04.13-04.12.52:583][706]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.12.52:585][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001794s)
+[2018.04.13-04.12.52:586][706]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.12.52:586][706]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2018.04.13-04.12.52:586][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003650s)
+[2018.04.13-04.12.52:608][706]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.12.52:712][706]LogInit: FAudioDevice initialized.
+[2018.04.13-04.12.52:793][706]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.12.52:795][706]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.12.52
+[2018.04.13-04.12.52:796][706]LogWorld: Bringing up level for play took: 0.001165
+[2018.04.13-04.12.52:796][706]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.12.52:796][706]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.12.52:796][706]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.12.52:796][706]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.12.52:797][706]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.12.52:800][706]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 1.146
+[2018.04.13-04.12.53:166][723]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.53:166][723]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.53:166][723]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.53:166][723]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.53:633][751]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.53:633][751]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.53:633][751]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.53:633][751]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.55:563][861]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.12.55:592][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.13-04.12.55:592][861]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:12:55)
+[2018.04.13-04.12.55:592][861]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.12.55:595][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002304s)
+[2018.04.13-04.12.55:596][861]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.12.55:596][861]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2018.04.13-04.12.55:596][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.004051s)
+[2018.04.13-04.12.55:625][861]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.12.55:748][861]LogInit: FAudioDevice initialized.
+[2018.04.13-04.12.55:827][861]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.12.55:829][861]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.12.55
+[2018.04.13-04.12.55:829][861]LogWorld: Bringing up level for play took: 0.001192
+[2018.04.13-04.12.55:829][861]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.12.55:830][861]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.12.55:830][861]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.12.55:830][861]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.12.55:831][861]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.12.55:834][861]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.181
+[2018.04.13-04.12.56:178][879]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.56:178][879]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.56:178][879]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.56:178][879]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.56:913][923]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.56:913][923]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.56:913][923]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.56:913][923]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.57:546][961]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.57:546][961]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.57:546][961]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.57:546][961]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.58:312][  7]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.58:312][  7]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.58:312][  7]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.58:312][  7]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.58:996][ 48]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.58:996][ 48]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.58:996][ 48]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.58:996][ 48]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.59:595][ 84]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.59:595][ 84]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.59:595][ 84]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.12.59:595][ 84]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:013][109]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:013][109]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:013][109]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:013][109]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:447][135]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:447][135]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:447][135]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:447][135]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:915][163]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:915][163]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:915][163]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.00:915][163]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.01:415][193]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.01:415][193]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.01:415][193]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.01:415][193]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.02:149][237]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.02:149][237]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.02:149][237]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.02:149][237]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.03:265][304]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.03:265][304]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.03:265][304]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.03:265][304]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.04:065][352]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.04:065][352]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.04:065][352]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.04:066][352]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.13.13:989][943]LogHttp: Warning: 00000289CAAEA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-04.13.13:989][943]LogHttp: Warning: 00000289CAAEA200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-04.13.13:989][943]LogHttp: Warning: 00000289CAAEA200: libcurl info message cache 1 (Closing connection 7)
+[2018.04.13-04.14.02:459][849]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.14.02:489][849]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.14.02:498][849]LogPlayLevel: [PlayLevel] Compiling MagicRange before play...
+[2018.04.13-04.14.03:183][849]LogPlayLevel: PlayLevel: Blueprint regeneration took 694 ms (1 blueprints)
+[2018.04.13-04.14.03:184][849]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:14:03)
+[2018.04.13-04.14.03:184][849]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.14.03:186][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001920s)
+[2018.04.13-04.14.03:186][849]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.14.03:187][849]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2018.04.13-04.14.03:187][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003475s)
+[2018.04.13-04.14.03:211][849]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.14.03:315][849]LogInit: FAudioDevice initialized.
+[2018.04.13-04.14.03:397][849]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.14.03:401][849]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.14.03
+[2018.04.13-04.14.03:402][849]LogWorld: Bringing up level for play took: 0.003390
+[2018.04.13-04.14.03:402][849]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.14.03:402][849]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.14.03:402][849]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.14.03:402][849]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.14.03:403][849]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.14.03:406][849]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 1.753
+[2018.04.13-04.14.04:476][908]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.04:476][908]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.04:476][908]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.04:476][908]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.05:993][999]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.05:993][999]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.05:993][999]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.05:993][999]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.07:043][ 62]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.07:043][ 62]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.07:043][ 62]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.07:043][ 62]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.07:944][116]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.07:944][116]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.07:944][116]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.07:944][116]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.08:961][177]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.08:961][177]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.08:961][177]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.08:961][177]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.11:343][320]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.11:344][320]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.11:344][320]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.11:344][320]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.32:599][589]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.14.32:624][589]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2018.04.13-04.14.32:633][589]LogPlayLevel: [PlayLevel] Compiling MagicRange before play...
+[2018.04.13-04.14.33:409][589]LogPlayLevel: PlayLevel: Blueprint regeneration took 784 ms (1 blueprints)
+[2018.04.13-04.14.33:409][589]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:14:33)
+[2018.04.13-04.14.33:409][589]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.14.33:411][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001953s)
+[2018.04.13-04.14.33:412][589]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.14.33:413][589]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2018.04.13-04.14.33:413][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003764s)
+[2018.04.13-04.14.33:435][589]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.14.33:550][589]LogInit: FAudioDevice initialized.
+[2018.04.13-04.14.33:635][589]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.14.33:637][589]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.14.33
+[2018.04.13-04.14.33:637][589]LogWorld: Bringing up level for play took: 0.001230
+[2018.04.13-04.14.33:638][589]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.14.33:639][589]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.14.33:639][589]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.14.33:639][589]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.14.33:641][589]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.14.33:644][589]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 1.991
+[2018.04.13-04.14.34:020][606]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.34:020][606]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.34:020][606]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.34:020][606]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.34:687][646]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.34:688][646]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.34:688][646]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.14.34:688][646]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.05:879][481]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.04.13-04.15.05:905][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.13-04.15.05:905][481]PIE: New page: PIE 세션: Default (2018. 4. 13. 오후 10:15:05)
+[2018.04.13-04.15.05:905][481]LogPlayLevel: Creating play world package: /Game/RTSCam/UEDPIE_0_Default
+[2018.04.13-04.15.05:907][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001692s)
+[2018.04.13-04.15.05:908][481]LogAIModule: Creating AISystem for world Default
+[2018.04.13-04.15.05:908][481]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2018.04.13-04.15.05:908][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RTSCam/Default.Default to /Game/RTSCam/UEDPIE_0_Default.Default (0.003136s)
+[2018.04.13-04.15.05:931][481]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.13-04.15.06:037][481]LogInit: FAudioDevice initialized.
+[2018.04.13-04.15.06:117][481]LogLoad: Game class is 'GameMode'
+[2018.04.13-04.15.06:119][481]LogWorld: Bringing World /Game/RTSCam/UEDPIE_0_Default.Default up for play (max tick rate 60) at 2018.04.13-13.15.06
+[2018.04.13-04.15.06:119][481]LogWorld: Bringing up level for play took: 0.000998
+[2018.04.13-04.15.06:119][481]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.04.13-04.15.06:119][481]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.15.06:119][481]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.04.13-04.15.06:119][481]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.15.06:120][481]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.04.13-04.15.06:123][481]PIE: /Game/RTSCam/UEDPIE_0_Default 에 대한 에디터에서 플레이 시작 시간: 0.47
+[2018.04.13-04.15.07:451][557]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.07:451][557]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.07:451][557]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.07:451][557]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.08:801][638]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.08:801][638]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.08:801][638]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.08:801][638]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.10:385][733]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.10:385][733]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.10:385][733]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.10:385][733]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.12:388][853]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.12:388][853]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.12:388][853]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.12:388][853]LogScriptCore: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2018.04.13-04.15.14:036][952]LogHttp: Warning: 00000289F8FF4400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-04.15.14:036][952]LogHttp: Warning: 00000289F8FF4400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-04.15.14:036][952]LogHttp: Warning: 00000289F8FF4400: libcurl info message cache 1 (Closing connection 8)
+[2018.04.13-04.15.23:113][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/BP/MagicRange" FILE="D:/다운로드/AnimalTower/Content/RTSCam/BP/MagicRange.uasset" SILENT=true
+[2018.04.13-04.15.23:196][323]LogSavePackage: Save=70.40ms
+[2018.04.13-04.15.23:196][323]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/MagicRange884695C54D5DCA9452E7138EFF8329AB.tmp' to 'D:/다운로드/AnimalTower/Content/RTSCam/BP/MagicRange.uasset'
+[2018.04.13-04.15.23:200][323]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Content/RTSCam/BP/MagicRange.uasset
+[2018.04.13-04.15.23:211][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/BP/RTSCam" FILE="D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset" SILENT=true
+[2018.04.13-04.15.23:673][323]LogSavePackage: Save=356.36ms
+[2018.04.13-04.15.23:673][323]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/RTSCam5719E6CE4D1DC0E01F13AB9B44E98150.tmp' to 'D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset'
+[2018.04.13-04.15.23:688][323]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Content/RTSCam/BP/RTSCam.uasset
+[2018.04.13-04.15.23:780][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RTSCam/Default" FILE="D:/다운로드/AnimalTower/Content/RTSCam/Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.13-04.15.23:862][323]LogSavePackage: Save=54.02ms
+[2018.04.13-04.15.23:862][323]LogSavePackage: Moving 'D:/다운로드/AnimalTower/Saved/Default3957850B4CE5D04DA3FD8C84E72D43DA.tmp' to 'D:/다운로드/AnimalTower/Content/RTSCam/Default.umap'
+[2018.04.13-04.15.23:864][323]LogSavePackage: Display: Finished SavePackage D:/다운로드/AnimalTower/Content/RTSCam/Default.umap
+[2018.04.13-04.15.23:897][323]LogFileHelpers: Saving map 'Default' took 0.205
+[2018.04.13-04.15.23:983][323]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.13-04.15.24:041][323]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.13-04.15.24:346][324]Cmd: QUIT_EDITOR
+[2018.04.13-04.15.24:930][324]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.04.13-04.15.24:941][324]LogExit: Preparing to exit.
+[2018.04.13-04.15.25:930][324]LogExit: Editor shut down
+[2018.04.13-04.15.25:934][324]LogExit: Transaction tracking system shut down
+[2018.04.13-04.15.26:092][324]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.13-04.15.26:092][324]LogDirectoryWatcher: A directory notification for 'D:/다운로드/AnimalTower/Content/' was aborted.
+[2018.04.13-04.15.26:092][324]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.13-04.15.26:092][324]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.13-04.15.26:092][324]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.13-04.15.26:092][324]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.13-04.15.26:092][324]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.13-04.15.26:169][324]LogExit: Object subsystem successfully closed.
+[2018.04.13-04.15.26:188][324]LogD3D11RHI: Shutdown
+[2018.04.13-04.15.26:188][324]LogD3D11RHI: CleanupD3DDevice
+[2018.04.13-04.15.26:190][324]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.13-04.15.26:216][324]LogModuleManager: Shutting down and abandoning module SequencerWidgets (554)
+[2018.04.13-04.15.26:216][324]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2018.04.13-04.15.26:216][324]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.04.13-04.15.26:216][324]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.04.13-04.15.26:216][324]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.04.13-04.15.26:216][324]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.04.13-04.15.26:216][324]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.04.13-04.15.26:217][324]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.04.13-04.15.26:217][324]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.04.13-04.15.26:217][324]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.04.13-04.15.26:217][324]LogDirectoryWatcher: A directory notification for 'D:/다운로드/AnimalTower/Content/Collections/' was aborted.
+[2018.04.13-04.15.26:218][324]LogDirectoryWatcher: A directory notification for 'D:/다운로드/AnimalTower/Content/Developers/choby/Collections/' was aborted.
+[2018.04.13-04.15.26:218][324]LogDirectoryWatcher: A directory notification for 'D:/다운로드/AnimalTower/Saved/Collections/' was aborted.
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.04.13-04.15.26:218][324]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.04.13-04.15.26:219][324]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.04.13-04.15.26:777][324]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.04.13-04.15.26:778][324]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.04.13-04.15.26:833][324]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.04.13-04.15.26:840][324]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.04.13-04.15.26:840][324]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.04.13-04.15.26:840][324]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.04.13-04.15.26:840][324]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.04.13-04.15.26:841][324]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.04.13-04.15.27:055][324]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.04.13-04.15.27:056][324]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.04.13-04.15.27:057][324]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.04.13-04.15.27:057][324]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.04.13-04.15.27:057][324]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.04.13-04.15.27:058][324]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.04.13-04.15.27:058][324]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.04.13-04.15.27:058][324]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.04.13-04.15.27:058][324]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.04.13-04.15.27:058][324]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.04.13-04.15.27:058][324]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.04.13-04.15.27:058][324]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.04.13-04.15.27:058][324]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.04.13-04.15.27:160][324]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.04.13-04.15.27:260][324]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.04.13-04.15.27:260][324]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.04.13-04.15.27:260][324]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.04.13-04.15.27:260][324]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.04.13-04.15.27:260][324]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.04.13-04.15.27:260][324]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.04.13-04.15.27:261][324]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.04.13-04.15.27:261][324]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.04.13-04.15.27:261][324]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.04.13-04.15.27:261][324]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.04.13-04.15.27:263][324]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.04.13-04.15.27:263][324]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.04.13-04.15.27:263][324]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.04.13-04.15.27:263][324]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.04.13-04.15.27:263][324]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.04.13-04.15.27:263][324]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.04.13-04.15.27:269][324]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.04.13-04.15.27:269][324]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.04.13-04.15.27:269][324]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.04.13-04.15.27:269][324]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.04.13-04.15.27:269][324]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.04.13-04.15.27:269][324]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.04.13-04.15.27:269][324]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.04.13-04.15.27:269][324]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.04.13-04.15.27:269][324]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.04.13-04.15.27:270][324]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.04.13-04.15.27:270][324]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.04.13-04.15.27:270][324]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.04.13-04.15.27:270][324]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.04.13-04.15.27:270][324]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.04.13-04.15.27:270][324]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.04.13-04.15.27:270][324]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.04.13-04.15.27:272][324]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.04.13-04.15.27:272][324]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.04.13-04.15.27:272][324]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.04.13-04.15.27:272][324]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.04.13-04.15.27:272][324]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.04.13-04.15.27:272][324]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.04.13-04.15.27:272][324]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.04.13-04.15.27:272][324]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.04.13-04.15.27:273][324]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.04.13-04.15.27:273][324]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.04.13-04.15.27:273][324]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.04.13-04.15.27:273][324]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.04.13-04.15.27:273][324]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.04.13-04.15.27:273][324]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.04.13-04.15.27:273][324]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.04.13-04.15.27:273][324]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.04.13-04.15.27:273][324]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.04.13-04.15.27:292][324]LogDerivedDataCache: Shutdown
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.04.13-04.15.27:292][324]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.04.13-04.15.27:293][324]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.04.13-04.15.27:294][324]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.13-04.15.27:294][324]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.13-04.15.27:294][324]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.13-04.15.27:294][324]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.13-04.15.27:294][324]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.13-04.15.27:294][324]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.13-04.15.27:294][324]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9A726712-46C3-0013-74A8-41B7D9E919D3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=3600603749ad04bec78734b07df8b5a0%7Cef22c3146eae45c4a96cb2a6b4435065%7C3363b4c5-5189-4f20-9913-e52aca899164&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.13-04.15.27:294][324]LogHttp: Warning: 00000289BDD4BA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.04.13-04.15.27:294][324]LogHttp: Warning: 00000289BDD4BA00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.04.13-04.15.27:294][324]LogHttp: Warning: 00000289BDD4BA00: libcurl info message cache 1 (Closing connection 9)
+[2018.04.13-04.15.27:305][324]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.13-04.15.27:305][324]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.13-04.15.27:306][324]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.13-04.15.27:306][324]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.13-04.15.27:306][324]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.13-04.15.27:306][324]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.13-04.15.27:306][324]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.13-04.15.27:306][324]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.13-04.15.27:310][324]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.13-04.15.27:314][324]LogExit: Exiting.
+[2018.04.13-04.15.27:329][324]Log file closed, 04/13/18 13:15:27
